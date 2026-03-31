@@ -4,29 +4,31 @@ Frontend developer specializing in React, TypeScript, and modern web application
 
 ## What I build
 
-- **Web applications** — full-stack with auth, CRUD, real-time data (Supabase)
-- **Landing pages** — conversion-focused, animated, responsive
-- **Dashboards** — data visualization, charts, sortable tables, dark/light themes
-- **Business tools** — booking systems, admin panels, dual-audience apps
+- **Web applications** — full-stack with authentication, databases, CRUD, real-time data
+- **Landing pages** — conversion-focused, animated, fully responsive
+- **Dashboards** — data visualization, interactive charts, sortable tables, theming
+- **Business tools** — booking systems, admin panels, content management
 
 ## Projects
 
-| Project | Description | Stack | Live |
-|---------|-------------|-------|------|
-| **NexToken** | Crypto analytics dashboard with live market data, interactive charts, and watchlist | React, TypeScript, Sass/SCSS, TanStack Query, Recharts | [Live](https://nextoken-six.vercel.app) |
-| **Dinespot** | Restaurant booking system with admin dashboard, menu management, and auth | React, TypeScript, Supabase, Tailwind CSS, Zustand | [Live](https://restaurant-booking-5jsz.vercel.app) |
-| **Apply Pilot** | Job application tracker with auth, CRUD, filtering, and CI/CD pipeline | React, TypeScript, Supabase, Zustand, Tailwind CSS | [Live](https://apply-pilot-sigma.vercel.app) |
-| **Inkwell** | SaaS landing page with scroll animations, pricing table, and accordion FAQ | React, TypeScript, Tailwind CSS, Framer Motion | [Live](https://inkwell-landing-sepia.vercel.app) |
+| Project | Description | Live |
+|---------|-------------|------|
+| **NexToken** | Crypto analytics dashboard with live market data, interactive charts, and watchlist | [Live](https://nextoken-six.vercel.app) |
+| **Dinespot** | Restaurant booking system with admin dashboard and menu management | [Live](https://restaurant-booking-5jsz.vercel.app) |
+| **Apply Pilot** | Job application tracker with auth, filtering, and CI/CD pipeline | [Live](https://apply-pilot-sigma.vercel.app) |
+| **Inkwell** | SaaS landing page with scroll animations, pricing table, and FAQ | [Live](https://inkwell-landing-sepia.vercel.app) |
 
 ## Tech
 
-**Core:** React 19, TypeScript, Vite
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS
 
-**Styling:** Tailwind CSS, Sass/SCSS with CSS Modules, Framer Motion
+**Styling:** Tailwind CSS, Sass/SCSS, CSS Modules, Framer Motion
 
-**Data:** TanStack Query, Zustand, Supabase, REST APIs, Recharts
+**Data & State:** REST APIs, TanStack Query, Zustand, Recharts
 
-**Tooling:** ESLint, Prettier, Husky, GitHub Actions CI/CD, Vercel
+**Backend:** Supabase, PostgreSQL, Authentication, Row-Level Security
+
+**Tooling:** Vite, Git, ESLint, Prettier, GitHub Actions, Vercel
 
 ## Let's connect
 
