@@ -1,22 +1,35 @@
-# Hi, I'm Israfil 👋
-Frontend Developer based in San Diego, CA. I build clean, fast, and user-friendly web applications with React and TypeScript.
-## 🛠️ Tech Stack
-**Core:** React · TypeScript · JavaScript · Tailwind CSS · Framer Motion
-**State & Data:** Zustand · React Hook Form · React Query
-**Backend & Infrastructure:** Supabase · Node.js · Git · GitHub Actions · Vercel
-**Tools:** Vite · ESLint · Prettier · Figma
-## 🚀 Featured Projects
-| Project | Description | Live |
-|---------|-------------|------|
-| **Dinespot** | Restaurant booking system with customer-facing site and admin dashboard — menu management, bookings with status workflow, Supabase auth and RLS | [Live](https://restaurant-booking-5jsz.vercel.app) · [Code](https://github.com/Israfil98/restaurant-booking) |
-| **Apply Pilot** | Full-stack job application tracker with auth, CRUD, real-time data, and CI/CD pipeline | [Live](https://apply-pilot-sigma.vercel.app) · [Code](https://github.com/Israfil98/apply-pilot) |
-| **Inkwell Landing Page** | SaaS landing page for an AI writing assistant with scroll animations, pricing table, and FAQ accordion | [Live](https://inkwell-landing-sepia.vercel.app) · [Code](https://github.com/Israfil98/inkwell-landing) |
-| **Portfolio** | Personal portfolio site with dark theme, Framer Motion animations, and responsive design | [Live](https://my-portfolio-bice-six-28.vercel.app) · [Code](https://github.com/Israfil98/my-portfolio) |
-## 📌 What I'm Working On
-Building a freelance portfolio with production-grade React projects — next up is an analytics dashboard with React Query, Recharts, and a public crypto API.
-## 🌍 Languages
-🇷🇺 Russian — Native · 🇦🇿 Azerbaijani — Native · 🇺🇸 English — Professional · 🇸🇦 Arabic — Conversational · 🇹🇷 Turkish — Conversational
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Israfil%20Guseinov-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/israfil-guseinov/)
-[![Email](https://img.shields.io/badge/Email-israfilguseinov98@gmail.com-red?style=flat&logo=gmail)](mailto:israfilguseinov98@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=vercel)](https://my-portfolio-bice-six-28.vercel.app)
+# Hey, I'm Israfil 👋
+
+Frontend developer specializing in React, TypeScript, and modern web applications. I build clean, performant, production-grade interfaces — from landing pages to full-stack apps to data dashboards.
+
+## What I build
+
+- **Web applications** — full-stack with auth, CRUD, real-time data (Supabase)
+- **Landing pages** — conversion-focused, animated, responsive
+- **Dashboards** — data visualization, charts, sortable tables, dark/light themes
+- **Business tools** — booking systems, admin panels, dual-audience apps
+
+## Projects
+
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| **NexToken** | Crypto analytics dashboard with live market data, interactive charts, and watchlist | React, TypeScript, Sass/SCSS, TanStack Query, Recharts | [Live](https://nextoken-six.vercel.app) |
+| **Dinespot** | Restaurant booking system with admin dashboard, menu management, and auth | React, TypeScript, Supabase, Tailwind CSS, Zustand | [Live](https://restaurant-booking-5jsz.vercel.app) |
+| **Apply Pilot** | Job application tracker with auth, CRUD, filtering, and CI/CD pipeline | React, TypeScript, Supabase, Zustand, Tailwind CSS | [Live](https://apply-pilot-sigma.vercel.app) |
+| **Inkwell** | SaaS landing page with scroll animations, pricing table, and accordion FAQ | React, TypeScript, Tailwind CSS, Framer Motion | [Live](https://inkwell-landing-sepia.vercel.app) |
+
+## Tech
+
+**Core:** React 19, TypeScript, Vite
+
+**Styling:** Tailwind CSS, Sass/SCSS with CSS Modules, Framer Motion
+
+**Data:** TanStack Query, Zustand, Supabase, REST APIs, Recharts
+
+**Tooling:** ESLint, Prettier, Husky, GitHub Actions CI/CD, Vercel
+
+## Let's connect
+
+- **Portfolio:** [my-portfolio-bice-six-28.vercel.app](https://my-portfolio-bice-six-28.vercel.app)
+- **LinkedIn:** [linkedin.com/in/israfil-guseinov](https://www.linkedin.com/in/israfil-guseinov/)
+- **Email:** israfilguseinov98@gmail.com
