@@ -8,11 +8,13 @@ Frontend developer specializing in React, TypeScript, and modern web application
 - **Landing pages** — conversion-focused, animated, fully responsive
 - **Dashboards** — data visualization, interactive charts, sortable tables, theming
 - **Business tools** — booking systems, admin panels, content management
+- **Figma-to-code** — pixel-perfect implementation from design specs
 
 ## Projects
 
 | Project | Description | Live |
 |---------|-------------|------|
+| **Basalt Arena** | Competitive developer platform built pixel-perfect from Figma design | [Live](YOUR_VERCEL_URL_HERE) |
 | **NexToken** | Crypto analytics dashboard with live market data, interactive charts, and watchlist | [Live](https://nextoken-six.vercel.app) |
 | **Dinespot** | Restaurant booking system with admin dashboard and menu management | [Live](https://restaurant-booking-5jsz.vercel.app) |
 | **Apply Pilot** | Job application tracker with auth, filtering, and CI/CD pipeline | [Live](https://apply-pilot-sigma.vercel.app) |
@@ -21,14 +23,10 @@ Frontend developer specializing in React, TypeScript, and modern web application
 ## Tech
 
 **Frontend:** React, TypeScript, JavaScript, HTML, CSS
-
 **Styling:** Tailwind CSS, Sass/SCSS, CSS Modules, Framer Motion
-
 **Data & State:** REST APIs, TanStack Query, Zustand, Recharts
-
 **Backend:** Supabase, PostgreSQL, Authentication, Row-Level Security
-
-**Tooling:** Vite, Git, ESLint, Prettier, GitHub Actions, Vercel
+**Tooling:** Vite, Git, ESLint, Prettier, GitHub Actions, Vercel, Figma
 
 ## Let's connect
 
