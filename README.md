@@ -12,13 +12,13 @@ Frontend developer specializing in React, TypeScript, and modern web application
 
 ## Projects
 
-| Project | Description | Live |
-|---------|-------------|------|
-| **Basalt Arena** | Competitive developer platform built pixel-perfect from Figma design | [Live](YOUR_VERCEL_URL_HERE) |
-| **NexToken** | Crypto analytics dashboard with live market data, interactive charts, and watchlist | [Live](https://nextoken-six.vercel.app) |
-| **Dinespot** | Restaurant booking system with admin dashboard and menu management | [Live](https://restaurant-booking-5jsz.vercel.app) |
-| **Apply Pilot** | Job application tracker with auth, filtering, and CI/CD pipeline | [Live](https://apply-pilot-sigma.vercel.app) |
-| **Inkwell** | SaaS landing page with scroll animations, pricing table, and FAQ | [Live](https://inkwell-landing-sepia.vercel.app) |
+| Project          | Description                                                                         | Live                                               |
+| ---------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------- |
+| **Basalt Arena** | Competitive developer platform built pixel-perfect from Figma design                | [Live](https://basalt-arena.vercel.app/)           |
+| **NexToken**     | Crypto analytics dashboard with live market data, interactive charts, and watchlist | [Live](https://nextoken-six.vercel.app)            |
+| **Dinespot**     | Restaurant booking system with admin dashboard and menu management                  | [Live](https://restaurant-booking-5jsz.vercel.app) |
+| **Apply Pilot**  | Job application tracker with auth, filtering, and CI/CD pipeline                    | [Live](https://apply-pilot-sigma.vercel.app)       |
+| **Inkwell**      | SaaS landing page with scroll animations, pricing table, and FAQ                    | [Live](https://inkwell-landing-sepia.vercel.app)   |
 
 ## Tech
 
